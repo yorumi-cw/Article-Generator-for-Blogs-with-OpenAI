@@ -26,4 +26,3 @@ Open your terminal and run:
 ```bash
 git clone https://github.com/your_username/your_repository_name.git
 cd your_repository_name
-<img width="1256" height="896" alt="image" src="https://github.com/user-attachments/assets/d38bce5b-a12d-4699-a6e8-453e8f035632" />
